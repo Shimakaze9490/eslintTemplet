@@ -1,5 +1,5 @@
 module.exports = {
-    extends: "eslint:recommended",
+    "extends": "eslint:recommended",
     // 运行环境
     env: {
         node: true,
